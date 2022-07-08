@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gufett0
+- 👋 Hi, I’m Marco
 - 👀 I’m interested in data science and generative art
 - 🌱 I’m currently learning Haskell
 - 💞️ I’m looking to collaborate on Data science project
