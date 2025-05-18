@@ -158,6 +158,18 @@
 				"TypeScript": 4905
 			}
 		},
+		"a1c1219dea56213c5d5c2b21f5eb65af42158776be6693b43d21859e1c7dbecf": {
+			"additions": 0,
+			"deletions": 0,
+			"commits": 0,
+			"totalCommits": 30,
+			"languages": {
+				"TypeScript": 254883,
+				"Solidity": 99255,
+				"Circom": 13403,
+				"Shell": 3229
+			}
+		},
 		"199fa0906795b1cae44e7dc793fb6464594ded3d3c91c3e225af497c46265222": {
 			"additions": 0,
 			"deletions": 0,
@@ -350,13 +362,13 @@
 			}
 		},
 		"38bf4371d02c3f8d8ac3c6f32ba659b4e72c5794a1ae791f40957358faa37090": {
-			"additions": 4693,
-			"deletions": 100,
-			"commits": 10,
-			"totalCommits": 10,
+			"additions": 23044,
+			"deletions": 1509,
+			"commits": 22,
+			"totalCommits": 22,
 			"languages": {
-				"TypeScript": 12839,
-				"Solidity": 442
+				"TypeScript": 50261,
+				"Solidity": 3324
 			}
 		},
 		"8a3fcbe69f70bfe07a5a93b5b40b2818ed8d978527516dbef3ea5e9c45753807": {
@@ -386,7 +398,7 @@
 			"additions": 3603,
 			"deletions": 662,
 			"commits": 3,
-			"totalCommits": 5,
+			"totalCommits": 6,
 			"languages": {
 				"TypeScript": 28770
 			}
@@ -397,20 +409,20 @@
 		"Python": 4566926,
 		"Haskell": 111997,
 		"C": 19268,
-		"Solidity": 1095753,
-		"TypeScript": 2424367,
+		"Solidity": 1197890,
+		"TypeScript": 2716672,
 		"HTML": 305956,
 		"CSS": 47118,
-		"Shell": 14356,
+		"Shell": 17585,
 		"Dockerfile": 2619,
 		"Cairo": 11588,
 		"JavaScript": 567642,
+		"Circom": 194426,
 		"Makefile": 704,
 		"SuperCollider": 12648,
 		"Ruby": 4994,
 		"C++": 1956,
 		"Rust": 98837,
-		"Circom": 181023,
 		"PowerShell": 21792,
 		"PLSQL": 64068
 	}
