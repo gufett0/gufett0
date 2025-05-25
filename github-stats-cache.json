@@ -279,7 +279,7 @@
 				"JavaScript": 896
 			}
 		},
-		"728b94433513e0d4c86f524ad6584dab5e9f84837dbd51a0b5d433ee0e64e9e6": {
+		"86d9cd5e4458b71e9ee4872b8db26993a04ce75a93032d434db9cc8d1c8feaea": {
 			"additions": 11863,
 			"deletions": 3429,
 			"commits": 7,
@@ -362,22 +362,22 @@
 			}
 		},
 		"38bf4371d02c3f8d8ac3c6f32ba659b4e72c5794a1ae791f40957358faa37090": {
-			"additions": 23044,
-			"deletions": 1509,
-			"commits": 22,
-			"totalCommits": 22,
+			"additions": 34206,
+			"deletions": 21791,
+			"commits": 26,
+			"totalCommits": 26,
 			"languages": {
-				"TypeScript": 50261,
-				"Solidity": 3324
+				"TypeScript": 41108,
+				"Solidity": 7092
 			}
 		},
 		"8a3fcbe69f70bfe07a5a93b5b40b2818ed8d978527516dbef3ea5e9c45753807": {
-			"additions": 14231,
-			"deletions": 3757,
-			"commits": 39,
-			"totalCommits": 39,
+			"additions": 33182,
+			"deletions": 5178,
+			"commits": 49,
+			"totalCommits": 49,
 			"languages": {
-				"JavaScript": 180952,
+				"JavaScript": 302083,
 				"HTML": 2469,
 				"CSS": 125
 			}
@@ -398,7 +398,7 @@
 			"additions": 3603,
 			"deletions": 662,
 			"commits": 3,
-			"totalCommits": 6,
+			"totalCommits": 7,
 			"languages": {
 				"TypeScript": 28770
 			}
@@ -409,14 +409,14 @@
 		"Python": 4566926,
 		"Haskell": 111997,
 		"C": 19268,
-		"Solidity": 1197890,
-		"TypeScript": 2716672,
+		"Solidity": 1201658,
+		"TypeScript": 2707519,
 		"HTML": 305956,
 		"CSS": 47118,
 		"Shell": 17585,
 		"Dockerfile": 2619,
 		"Cairo": 11588,
-		"JavaScript": 567642,
+		"JavaScript": 688773,
 		"Circom": 194426,
 		"Makefile": 704,
 		"SuperCollider": 12648,
