@@ -244,18 +244,6 @@
 				"JavaScript": 1333
 			}
 		},
-		"4a934e78437726dff8bba451fba1ac7cba7cf4da5afafdb21afc7997fec36f61": {
-			"additions": 0,
-			"deletions": 0,
-			"commits": 0,
-			"totalCommits": 30,
-			"languages": {
-				"TypeScript": 254883,
-				"Solidity": 99255,
-				"Circom": 13403,
-				"Shell": 3229
-			}
-		},
 		"82d649a481275b8a9f3d35f5d2e7422bd79d5f1b64056d4d08a623dc2aaa5a19": {
 			"additions": 7278,
 			"deletions": 106,
@@ -372,12 +360,12 @@
 			}
 		},
 		"8a3fcbe69f70bfe07a5a93b5b40b2818ed8d978527516dbef3ea5e9c45753807": {
-			"additions": 33182,
-			"deletions": 5178,
-			"commits": 49,
-			"totalCommits": 49,
+			"additions": 34521,
+			"deletions": 5800,
+			"commits": 56,
+			"totalCommits": 56,
 			"languages": {
-				"JavaScript": 302083,
+				"JavaScript": 330578,
 				"HTML": 2469,
 				"CSS": 125
 			}
@@ -398,9 +386,21 @@
 			"additions": 3603,
 			"deletions": 662,
 			"commits": 3,
-			"totalCommits": 7,
+			"totalCommits": 8,
 			"languages": {
 				"TypeScript": 28770
+			}
+		},
+		"4a934e78437726dff8bba451fba1ac7cba7cf4da5afafdb21afc7997fec36f61": {
+			"additions": 0,
+			"deletions": 0,
+			"commits": 0,
+			"totalCommits": 30,
+			"languages": {
+				"TypeScript": 254883,
+				"Solidity": 99255,
+				"Circom": 13403,
+				"Shell": 3229
 			}
 		}
 	},
@@ -416,7 +416,7 @@
 		"Shell": 17585,
 		"Dockerfile": 2619,
 		"Cairo": 11588,
-		"JavaScript": 688773,
+		"JavaScript": 717268,
 		"Circom": 194426,
 		"Makefile": 704,
 		"SuperCollider": 12648,
