@@ -33,10 +33,10 @@
     <!-- Stats Section -->
     <text x="50" y="50" class="console ascii-art">
         <tspan x="50" y="67">$ gufett0 github-stats</tspan>
-        <tspan x="50" y="119.5"><tspan class="cyan">account-age:</tspan> <tspan class="white">1144 days</tspan></tspan>
+        <tspan x="50" y="119.5"><tspan class="cyan">account-age:</tspan> <tspan class="white">1151 days</tspan></tspan>
         <tspan x="50" y="154.5"><tspan class="cyan">repos:</tspan> <tspan class="white">37</tspan></tspan>
-        <tspan x="50" y="189.5"><tspan class="cyan">commits:</tspan> <tspan class="white">405</tspan></tspan>
-        <tspan x="50" y="224.5"><tspan class="cyan">lines:</tspan> <tspan class="white">323069 (<tspan class="green">382565++</tspan>, <tspan class="red">59496--</tspan>)</tspan></tspan>
+        <tspan x="50" y="189.5"><tspan class="cyan">commits:</tspan> <tspan class="white">406</tspan></tspan>
+        <tspan x="50" y="224.5"><tspan class="cyan">lines:</tspan> <tspan class="white">323320 (<tspan class="green">382946++</tspan>, <tspan class="red">59626--</tspan>)</tspan></tspan>
         <tspan x="50" y="259.5"><tspan class="cyan">languages:</tspan></tspan>
 
     </text>
@@ -45,20 +45,20 @@
     <g transform="translate(50, 279.5)">
         <svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
   <!-- Pie Chart Wedges -->
-  <path d="M 150 150 L 150 0 A 150 150 0 0 1 196.36048019124388 292.65590025104916 Z" fill="#3776AB" stroke="#333" stroke-width="0.5" />
-  <path d="M 150 150 L 196.36048019124388 292.65590025104916 A 150 150 0 0 1 3.257628096026849 181.0914182371283 Z" fill="#3178C6" stroke="#333" stroke-width="0.5" />
-  <path d="M 150 150 L 3.257628096026849 181.0914182371283 A 150 150 0 0 1 20.97156690364656 73.5038337385471 Z" fill="#363636" stroke="#333" stroke-width="0.5" />
-  <path d="M 150 150 L 20.97156690364656 73.5038337385471 A 150 150 0 0 1 67.18465496644768 24.933543158152588 Z" fill="#F7DF1E" stroke="#333" stroke-width="0.5" />
-  <path d="M 150 150 L 67.18465496644768 24.933543158152588 A 150 150 0 0 1 92.21417639551785 11.577463574923343 Z" fill="#E34F26" stroke="#333" stroke-width="0.5" />
-  <path d="M 150 150 L 92.21417639551785 11.577463574923343 A 150 150 0 0 1 109.25385093237932 5.640201800642444 Z" fill="#58A6FF" stroke="#333" stroke-width="0.5" />
-  <path d="M 150 150 L 109.25385093237932 5.640201800642444 A 150 150 0 0 1 119.3532430324116 3.1641178479538894 Z" fill="#5D4F85" stroke="#333" stroke-width="0.5" />
-  <path d="M 150 150 L 119.3532430324116 3.1641178479538894 A 150 150 0 0 1 149.99999999999983 0 Z" fill="#808080" stroke="#333" stroke-width="0.5" />
-  <text x="253.70681913078838" y="133.5714983710034" text-anchor="middle" dominant-baseline="middle" fill="#FFFFFF" font-weight="bold" font-family="monospace">45%</text>
-  <text x="97.47298947893168" y="240.9170675160587" text-anchor="middle" dominant-baseline="middle" fill="#FFFFFF" font-weight="bold" font-family="monospace">27%</text>
-  <text x="46.39490075037803" y="132.94176417457007" text-anchor="middle" dominant-baseline="middle" fill="#FFFFFF" font-weight="bold" font-family="monospace">12%</text>
-  <text x="73.93085195837577" y="77.62262289761077" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-weight="bold" font-family="monospace">7%</text>
-  <text x="100.56806192534751" y="57.36370312785748" text-anchor="middle" dominant-baseline="middle" fill="#FFFFFF" font-weight="bold" font-family="monospace">3%</text>
-  <text x="139.21661783519164" y="45.55518840513095" text-anchor="middle" dominant-baseline="middle" fill="#FFFFFF" font-weight="bold" font-family="monospace">3%</text>
+  <path d="M 150 150 L 150 0 A 150 150 0 0 1 196.67896534518368 292.55200522722623 Z" fill="#3776AB" stroke="#333" stroke-width="0.5" />
+  <path d="M 150 150 L 196.67896534518368 292.55200522722623 A 150 150 0 0 1 3.3691611574957676 181.6132424838635 Z" fill="#3178C6" stroke="#333" stroke-width="0.5" />
+  <path d="M 150 150 L 3.3691611574957676 181.6132424838635 A 150 150 0 0 1 20.65559587692033 74.03931857832337 Z" fill="#363636" stroke="#333" stroke-width="0.5" />
+  <path d="M 150 150 L 20.65559587692033 74.03931857832337 A 150 150 0 0 1 67.24244464459697 24.89529572555074 Z" fill="#F7DF1E" stroke="#333" stroke-width="0.5" />
+  <path d="M 150 150 L 67.24244464459697 24.89529572555074 A 150 150 0 0 1 92.2574196664342 11.559419184901913 Z" fill="#E34F26" stroke="#333" stroke-width="0.5" />
+  <path d="M 150 150 L 92.2574196664342 11.559419184901913 A 150 150 0 0 1 109.28522134234868 5.631351052735624 Z" fill="#58A6FF" stroke="#333" stroke-width="0.5" />
+  <path d="M 150 150 L 109.28522134234868 5.631351052735624 A 150 150 0 0 1 119.37710879146108 3.159138745272969 Z" fill="#5D4F85" stroke="#333" stroke-width="0.5" />
+  <path d="M 150 150 L 119.37710879146108 3.159138745272969 A 150 150 0 0 1 149.99999999999997 0 Z" fill="#808080" stroke="#333" stroke-width="0.5" />
+  <text x="253.6884091502062" y="133.45570164983008" text-anchor="middle" dominant-baseline="middle" fill="#FFFFFF" font-weight="bold" font-family="monospace">45%</text>
+  <text x="97.73644867984062" y="241.06877183428503" text-anchor="middle" dominant-baseline="middle" fill="#FFFFFF" font-weight="bold" font-family="monospace">27%</text>
+  <text x="46.32997410192456" y="133.34089647392852" text-anchor="middle" dominant-baseline="middle" fill="#FFFFFF" font-weight="bold" font-family="monospace">12%</text>
+  <text x="73.79769633335346" y="77.76282871058565" text-anchor="middle" dominant-baseline="middle" fill="#000000" font-weight="bold" font-family="monospace">7%</text>
+  <text x="100.6039335357921" y="57.3445704890234" text-anchor="middle" dominant-baseline="middle" fill="#FFFFFF" font-weight="bold" font-family="monospace">3%</text>
+  <text x="139.22510562052773" y="45.55431243411141" text-anchor="middle" dominant-baseline="middle" fill="#FFFFFF" font-weight="bold" font-family="monospace">3%</text>
 </svg>
     </g>
 
