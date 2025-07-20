@@ -350,27 +350,27 @@
 			}
 		},
 		"38bf4371d02c3f8d8ac3c6f32ba659b4e72c5794a1ae791f40957358faa37090": {
-			"additions": 64530,
-			"deletions": 36350,
-			"commits": 64,
-			"totalCommits": 64,
+			"additions": 76489,
+			"deletions": 47249,
+			"commits": 67,
+			"totalCommits": 67,
 			"languages": {
-				"TypeScript": 222205,
-				"Solidity": 10871,
-				"JavaScript": 875,
+				"TypeScript": 259982,
+				"Solidity": 9374,
+				"JavaScript": 896,
 				"HTML": 296,
 				"CSS": 103
 			}
 		},
 		"8a3fcbe69f70bfe07a5a93b5b40b2818ed8d978527516dbef3ea5e9c45753807": {
-			"additions": 35466,
-			"deletions": 6111,
-			"commits": 60,
-			"totalCommits": 60,
+			"additions": 56599,
+			"deletions": 15875,
+			"commits": 101,
+			"totalCommits": 101,
 			"languages": {
-				"JavaScript": 349420,
-				"HTML": 2469,
-				"CSS": 125
+				"JavaScript": 488435,
+				"HTML": 11265,
+				"CSS": 127
 			}
 		},
 		"1979497db1cb1d3473451344499954f0491f69516d55bfa5dd20853293629385": {
@@ -389,7 +389,7 @@
 			"additions": 3603,
 			"deletions": 662,
 			"commits": 3,
-			"totalCommits": 14,
+			"totalCommits": 15,
 			"languages": {
 				"TypeScript": 28770
 			}
@@ -412,14 +412,14 @@
 		"Python": 4566926,
 		"Haskell": 111997,
 		"C": 19268,
-		"Solidity": 1205437,
-		"TypeScript": 2888616,
-		"HTML": 306252,
-		"CSS": 47221,
+		"Solidity": 1203940,
+		"TypeScript": 2926393,
+		"HTML": 315048,
+		"CSS": 47223,
 		"Shell": 17585,
 		"Dockerfile": 2619,
 		"Cairo": 11588,
-		"JavaScript": 736985,
+		"JavaScript": 876021,
 		"Circom": 194426,
 		"Makefile": 704,
 		"SuperCollider": 12648,
