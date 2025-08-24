@@ -363,14 +363,14 @@
 			}
 		},
 		"8a3fcbe69f70bfe07a5a93b5b40b2818ed8d978527516dbef3ea5e9c45753807": {
-			"additions": 56954,
-			"deletions": 16097,
-			"commits": 107,
-			"totalCommits": 107,
+			"additions": 58189,
+			"deletions": 18106,
+			"commits": 125,
+			"totalCommits": 125,
 			"languages": {
-				"JavaScript": 492302,
-				"HTML": 11265,
-				"CSS": 1260
+				"JavaScript": 474528,
+				"HTML": 3396,
+				"CSS": 1132
 			}
 		},
 		"1979497db1cb1d3473451344499954f0491f69516d55bfa5dd20853293629385": {
@@ -389,7 +389,7 @@
 			"additions": 3603,
 			"deletions": 662,
 			"commits": 3,
-			"totalCommits": 19,
+			"totalCommits": 20,
 			"languages": {
 				"TypeScript": 28770
 			}
@@ -423,12 +423,12 @@
 		"C": 19268,
 		"Solidity": 1502414,
 		"TypeScript": 3001771,
-		"HTML": 315048,
-		"CSS": 48356,
+		"HTML": 307179,
+		"CSS": 48228,
 		"Shell": 17585,
 		"Dockerfile": 2619,
 		"Cairo": 11588,
-		"JavaScript": 879888,
+		"JavaScript": 862114,
 		"Circom": 194426,
 		"Makefile": 704,
 		"SuperCollider": 12648,
