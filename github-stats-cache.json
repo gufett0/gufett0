@@ -379,7 +379,7 @@
 			"additions": 4517,
 			"deletions": 1069,
 			"commits": 7,
-			"totalCommits": 56,
+			"totalCommits": 57,
 			"languages": {
 				"TypeScript": 26662
 			}
@@ -499,16 +499,16 @@
 			}
 		},
 		"47dcb25cb581a99aadc25b80bfd23c3c67a96afc46c3d0204ababdaf927785d6": {
-			"additions": 613050,
-			"deletions": 25627,
-			"commits": 736,
-			"totalCommits": 736,
+			"additions": 648501,
+			"deletions": 30170,
+			"commits": 831,
+			"totalCommits": 831,
 			"languages": {
-				"Rust": 9952326,
-				"Python": 1097760,
-				"Lean": 582341,
-				"Cuda": 533803,
-				"Shell": 34863,
+				"Rust": 10904589,
+				"Python": 1138830,
+				"Lean": 616606,
+				"Cuda": 538504,
+				"Shell": 40476,
 				"C++": 6349
 			}
 		},
@@ -522,31 +522,44 @@
 				"Shell": 4150,
 				"Python": 1205
 			}
+		},
+		"14341280a11dd99fcece434609409f7464f09c5b08c4696325f836b0c3b1bde1": {
+			"additions": 2641,
+			"deletions": 333,
+			"commits": 4,
+			"totalCommits": 4,
+			"languages": {
+				"Rust": 12324,
+				"Vue": 8309,
+				"CSS": 1763,
+				"JavaScript": 259
+			}
 		}
 	},
 	"languages": {
-		"MATLAB": 1108764,
-		"Python": 184213689,
-		"Haskell": 4255886,
-		"C": 732184,
-		"Solidity": 61070438,
-		"TypeScript": 147989918,
-		"CSS": 2320830,
-		"Shell": 1317189,
-		"Dockerfile": 121133,
-		"Cairo": 440344,
-		"JavaScript": 38281703,
-		"Circom": 8133368,
-		"Makefile": 43006,
-		"SuperCollider": 480624,
-		"Ruby": 189772,
-		"C++": 99724,
-		"Rust": 50235884,
-		"PowerShell": 828096,
-		"PLSQL": 2434584,
-		"TeX": 7558181,
-		"BibTeX Style": 2385720,
-		"Lean": 2637865,
-		"Cuda": 2657621
+		"MATLAB": 1137942,
+		"Python": 190145095,
+		"Haskell": 4367883,
+		"C": 751452,
+		"Solidity": 62678319,
+		"TypeScript": 152376218,
+		"CSS": 2389661,
+		"Shell": 1387370,
+		"Dockerfile": 124711,
+		"Cairo": 451932,
+		"JavaScript": 39291173,
+		"Circom": 8347404,
+		"Makefile": 44312,
+		"SuperCollider": 493272,
+		"Ruby": 194766,
+		"C++": 108029,
+		"Rust": 62151437,
+		"PowerShell": 849888,
+		"PLSQL": 2498652,
+		"TeX": 7842394,
+		"BibTeX Style": 2474080,
+		"Lean": 3254471,
+		"Cuda": 3196125,
+		"Vue": 8309
 	}
 }
